@@ -4,7 +4,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpejZlNGgzbWJvYmFkem12cDRmOXE3amw1cGJ6NHBzYTV2aWhlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpejZlNGgzbWJvYmFkem12cDRmOXE3amw1cGJ6NHBzYTV2aWhlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" />
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/kyookuhmbuh_feed">

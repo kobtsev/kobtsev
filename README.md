@@ -7,6 +7,9 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xpejZlNGgzbWJvYmFkem12cDRmOXE3amw1cGJ6NHBzYTV2aWhlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" />
 </div>
 <div id="badges" align="center">
+  <a href="https://github.com/kyookuhmbuh">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="https://t.me/kyookuhmbuh_feed">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
